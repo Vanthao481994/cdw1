@@ -1,0 +1,1 @@
+<?php Route::get('sample', 'Kingdev\Sample\SampleController@index'); ?>

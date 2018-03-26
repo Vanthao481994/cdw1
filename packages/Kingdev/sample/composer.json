@@ -1,0 +1,12 @@
+{
+    "name": "kingdev/sample",
+    "description": "Create overview sample can intergrate other project",
+    "authors": [
+        {
+            "name": "John Simth",
+            "email": "vthao481994@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
